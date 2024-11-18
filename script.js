@@ -12,7 +12,7 @@ addTaskBtn.addEventListener("click", () => {
         return;
     }
 
-    // Create a new list item
+    // Create a new list item sohan molla
     const li = document.createElement("li");
 
     // Task text
